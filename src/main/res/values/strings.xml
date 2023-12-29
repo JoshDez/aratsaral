@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Arats Aral</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="login">Login</string>
+
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+
+
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+    <string name="subject">Subject</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_desc">Task Description</string>
+    <string name="task_deadline">Task Deadline</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="year">Year</string>
+
+
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="subject_name">Subject name</string>
+    <string name="add">ADD</string>
+
+
+    <string name="your_name">Your Name</string>
+    <string name="yourname_gmail_com">YourName@gmail.com</string>
+    <string name="_1_20">1/20</string>
+    <string name="priority">Priority</string>
+    <string name="expands_the_item_layout">expands the item layout</string>
+    <string name="deletes_the_item">deletes the item</string>
+
+
+    <string name="delete_subjects">Delete Subjects</string>
+    <string name="add_new_subject">Add New Subject</string>
+    <string name="sync_data_to_cloud">Sync Data To Cloud</string>
+    <string name="login_logout">Login / Logout</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="delete_subject">Delete Subject</string>
+    <string name="delete_task">Delete Tasks</string>
+    <string name="import_from_cloud">Import Data From Cloud</string>
+    <string name="edit_subject_name">Edit Subject Name</string>
+    <string name="cancels_the_delete_function">cancels the delete function</string>
+    <string name="deletes_the_selected_subject">deletes the selected subject</string>
+    <string name="adds_new_subject">adds new subject</string>
+    <string name="logo_of_arats_aral">logo of arats aral</string>
+    <string name="loading_animation_of_the_app">loading animation of the app</string>
+    <string name="date">Date</string>
+
+
+</resources>

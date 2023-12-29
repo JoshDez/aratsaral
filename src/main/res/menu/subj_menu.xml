@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/addNewTask"
+        android:title="@string/add_new_task"
+        android:icon="@drawable/add_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/editSubjName"
+        android:title="@string/edit_subject_name"
+        android:icon="@drawable/add_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/deleteTask"
+        android:title="@string/delete_task"
+        android:icon="@drawable/delete_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/deleteSubject"
+        android:title="@string/delete_subject"
+        android:icon="@drawable/delete_icon"
+        app:showAsAction="never"/>
+
+
+
+</menu>

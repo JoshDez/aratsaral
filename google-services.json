@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440834806353",
+    "project_id": "aratsaral",
+    "storage_bucket": "aratsaral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440834806353:android:e86acb792f0898e999de70",
+        "android_client_info": {
+          "package_name": "com.labactivity.aratsaral"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpabYZ7RN7JEfmUZeCM_yy8Ipxiu_iw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
